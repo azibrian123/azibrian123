@@ -1,4 +1,7 @@
-### Hi there 👋
+# Halo semua!
+
+Perkenalkan nama saya **Azi Brian F**.\
+Saya seorang **Application Developer Jr**
 
 <!--
 **azibrian123/azibrian123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
